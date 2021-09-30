@@ -20,7 +20,7 @@ phases:
     commands:
       - rm -rf public
       - hugo
-      - aws s3 sync public/* s3://hugo-firstwebsite --delete
+      - aws s3 sync public/ s3://hugo-firstwebsite/ --delete
   post_build:
     commands:
       - echo Build completed on `date`
