@@ -2,3 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'binario'
+
+[[deployment.targets]]
+name = "hugo-aws-website"
+URL = "s3://hugo-aws-website/?region=eu-central-1"
