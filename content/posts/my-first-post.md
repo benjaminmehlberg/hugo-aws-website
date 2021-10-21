@@ -7,6 +7,6 @@ draft: false
 
 *My first HUGO website*
 
-**Another line**
+**Another line**\n
 
-[Github from Benjamin Mehlberg](https://github.com/benjaminmehlberg)
+[Github from Benjamin Mehlberg](https://github.com)
