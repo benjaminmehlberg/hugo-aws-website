@@ -5,4 +5,4 @@ draft: false
 ---
 *My first HUGO website*
 
-[Github from Benjamin Mehlberg](https://github.com/Benjamin Mehlberg)
+[Github from Benjamin Mehlberg](https://github.com/BenjaminMehlberg)
